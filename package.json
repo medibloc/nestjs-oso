@@ -1,11 +1,11 @@
 {
-  "name": "nestjs-oso",
-  "version": "1.0.1",
+  "name": "@medibloc/nestjs-oso",
+  "version": "1.0.1-m.1",
   "description": "Use OSO with NestJS",
   "main": "dist/plugin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bjerkio/nestjs-oso"
+    "url": "https://github.com/medibloc/nestjs-oso"
   },
   "author": "Bjerk AS",
   "license": "Apache-2.0",
