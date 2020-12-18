@@ -1,8 +1,12 @@
 {
   "name": "@medibloc/nestjs-oso",
-  "version": "1.0.1-m.1",
+  "version": "1.0.1-m.2",
   "description": "Use OSO with NestJS",
   "main": "dist/plugin.js",
+  "typings": "dist/plugin.d.ts",
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/medibloc/nestjs-oso"
